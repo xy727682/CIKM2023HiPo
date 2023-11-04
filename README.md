@@ -4,7 +4,7 @@ This is the official code for CIKM 2023 Long Paper:
 We release the model HiPo, which is a context-driven fake news detection model using news environment. The following diagram illustrates HiPo's design. 
 ## Method
 The overview of HiPo shown in the figure below. 
-![overview](https://github.com/xy727682/CIKM2023HiPo/tree/main/pic/overview.png)
+![overview](https://github.com/xy727682/CIKM2023HiPo/tree/main/pic/overview.png?raw=true)
 ## Installation
 The descriptions of enviroment requiments and configurations for the HiPo will be added soon. Before that, please refer to the experiment chapter in 4.1 for the installation of HiPo.  
 ## Experimental Results
