@@ -9,7 +9,7 @@ The overview of HiPo shown in the figure below.
 The descriptions of enviroment requiments and configurations for the HiPo will be added soon. Before that, please refer to the experiment chapter in 4.1 for the installation of HiPo.  
 ## Experimental Results
 HiPo's Performance is shown in the graph below. 
-![results](https://github.com/xy727682/CIKM2023HiPo/tree/main/pic/experimental.png "results")
+![results](https://github.com/xy727682/CIKM2023HiPo/blob/main/pic/experimental.png)
 # Datasets
 Since the dataset of this work comes from many previous works and is not easy to be disclosed directly, two ways of obtaining the data are provided:
 ## Self Reconstruction
